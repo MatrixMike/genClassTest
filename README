@@ -1,10 +1,13 @@
 # genClassTest
 
-FIXME: write description
+Simple but using as example for passing command line parameters (arguments) 
+ demo of syntax
 
-## Usage
+## Usage: java -jar genClassTest-1.0.1-SNAPSHOT-standalone.jar  
+  {or similar: use tab and complete <linux shell syntax> to select .jar file>
 
-FIXME: write
+
+FIXME: It runs but needs a single parameter !
 
 ## License
 
