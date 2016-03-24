@@ -4,6 +4,9 @@
 ;; (compile 'genClassTest)   
 
 (defn -main
-  [greetee]
-  (println (str "Hello " greetee "!")))
+  [greetee1 greetee2 ]
+  (println (str "Hello " greetee1 " "  greetee2  "!"))
+  
+  )
 
+;; this could help my sudoku quest {3 input words} - I obviously need to read up on some stuff here
